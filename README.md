@@ -1,0 +1,2 @@
+# machine_learning_AndrewNg
+使用python实现吴恩达机器学习课程理论，目的在于加深对于理论的理解，以及初步对python库的了解，重点了解pandas, numpy, matplotlib等基础数据运算库，对TensorFlow，scikit-learn有一点点的使用，深刻理解理论后，学习框架是很有帮助的。学习的过程需要不断去翻越文档。
