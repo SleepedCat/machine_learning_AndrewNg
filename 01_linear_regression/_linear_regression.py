@@ -52,7 +52,7 @@ def grad_loop(theta, x_data, y_data):
 def grad(theta, x_data, y_data):
     x_data, y_data = to_matrix(x_data, y_data)
     error = x_data @ theta.T - y_data
-    gradient = error.T @ X / len(x_data)
+    gradient = error.T @ x_data / len(x_data)
     return gradient
 
 
